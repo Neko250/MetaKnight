@@ -2,7 +2,7 @@
 
 MetaKnight is a metadata remover for .jpg & .jpeg files.
 
-![](https://raw.githubusercontent.com/Neko250/MetaKnight/gh-pages/metaknight.jpg)
+![](http://i.imgur.com/s1VbBnx.jpg)
 
 ---
 
