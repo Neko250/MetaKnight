@@ -8,5 +8,5 @@ MetaKnight is a metadata remover for .jpg & .jpeg files.
 
 ## Releases
 
-First Beta release:
+First Beta release:  
 - [Download](https://github.com/Neko250/MetaKnight/releases/tag/0.1)
